@@ -11,6 +11,19 @@ Once a `Stats` instance is constructed, methods on it can be used to calculate s
 
 # Measures of centrality
 
+* `mean`
+* `geometricMean`
+* `harmonicMean`
+* `median`
+* `lowerQuartile`
+* `upperQuartile`
+* `midhinge`
+* `min`
+* `max`
+* `range`
+* `midrange`
+* `mode`
+
 ## `mean`
 
 Arithmetic mean.
@@ -60,6 +73,12 @@ Mean of `min` and `max` values.
 Value that appears most often in the list. This might not be a unique value.
 
 # Measures of dispersion
+
+* `variance`
+* `sampleVariance`
+* `standardDeviation`
+* `sampleStandardDeviation`
+* `coefficientOfVariation`
 
 ## `variance`
 
