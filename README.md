@@ -13,15 +13,15 @@ Once a `Stats` instance is constructed, methods on it can be used to calculate s
 
 ## `mean`
 
-Arithmetic mean
+Arithmetic mean.
 
 ## `geometricMean`
 
-Geometric mean
+Geometric mean. All values need to be positive, otherwise it does not exist.
 
-* `harmonicMean`
+## `harmonicMean`
 
-Harmonic mean
+Harmonic mean. All values need to be positive, otherwise it does not exist.
 
 ## `median`
 
