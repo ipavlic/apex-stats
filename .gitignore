@@ -1,2 +1,5 @@
 *.sublime-project
 config/
+.project
+.settings/
+salesforce.schema
